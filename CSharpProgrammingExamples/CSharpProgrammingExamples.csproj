@@ -5,7 +5,7 @@
     <TargetFramework>net9.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
-    <StartupObject>CSharpProgrammingExamples._1._Find_the_Minimum_Number_in_an_Array.Program</StartupObject>
+    <StartupObject>CSharpProgrammingExamples._2._Find_the_Maximum_Number_in_an_Array.Program</StartupObject>
   </PropertyGroup>
 
 </Project>
